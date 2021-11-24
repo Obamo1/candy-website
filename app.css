@@ -1,0 +1,23 @@
+body {
+    background: #f5d9d5;
+    font-family: "Nunito", sans-serif;
+}
+/* img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px; 
+    width: 70%;
+    
+  } */
+  
+ 
+  
+  
+  nav {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.6em;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 1.4em 0; 
+    border-bottom: 2px solid white;
+  }
